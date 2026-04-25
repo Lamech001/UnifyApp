@@ -1,4 +1,5 @@
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { StyleSheet,
+   Text, TouchableOpacity, View } from 'react-native';
 import { Post } from '../../types/feed';
 
 interface PostCardProps {

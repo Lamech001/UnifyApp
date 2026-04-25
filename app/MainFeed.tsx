@@ -1,6 +1,9 @@
-import React, { useEffect, useMemo, useState } from 'react';
-import { Modal, ScrollView, StyleSheet, Switch, Text, TouchableOpacity, useWindowDimensions, View } from 'react-native';
-import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import React, { useEffect, 
+  useMemo, useState } from 'react';
+import { Modal, ScrollView, 
+  StyleSheet, Switch, Text, TouchableOpacity, useWindowDimensions, View } from 'react-native';
+import { useSafeAreaInsets
+ } from 'react-native-safe-area-context';
 import BottomNavigation from './components/feed/BottomNavigation';
 import TopNavigation from './components/feed/TopNavigation';
 import ExploreTab from './components/feed/tabs/ExploreTab';

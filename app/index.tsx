@@ -1,6 +1,9 @@
-import { useState } from 'react';
-import { StatusBar, StyleSheet } from 'react-native';
-import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
+import { useState
+ } from 'react';
+import { StatusBar,
+   StyleSheet } from 'react-native';
+import { SafeAreaProvider,
+   SafeAreaView } from 'react-native-safe-area-context';
 import LoginScreen from './LoginScreen';
 import MainFeed from './MainFeed';
 import RegisterScreen from './RegisterScreen';

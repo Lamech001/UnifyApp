@@ -1,4 +1,5 @@
-import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { StyleSheet,
+   Text, TouchableOpacity, View } from 'react-native';
 
 interface TopNavigationProps {
   compact: boolean;
